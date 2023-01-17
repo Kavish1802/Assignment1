@@ -1,0 +1,49 @@
+*{
+    font-family: serif;
+}
+#circle1 {
+    position: absolute;
+    height : 500px;
+    width: 500px;
+    left: 520px;
+    top: 100px;
+    background-color: rgb(239, 70, 3);
+    border-radius: 50%;
+}
+#circle2 {
+    position: absolute;
+    height : 300px;
+    width: 300px;
+    left: 620px;
+    top: 200px;
+    background-color: rgb(117, 237, 74);
+    border-radius: 50%;
+}
+#circle3 {
+    position: absolute;
+    height : 100px;
+    width: 100px;
+    left: 715px;
+    top: 295px;
+    background-color: rgb(0, 81, 255);
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+/* .center
+{
+     margin: auto;
+     width: 33%;
+     padding: 10px;
+} */
+/*
+Another way of positioning the circles int he center would be
+.center
+{
+     positon: absolute;
+     left: 520px;
+     top: 100px;
+} */
+
